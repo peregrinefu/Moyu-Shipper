@@ -121,7 +121,7 @@ const nameInit = [
     "Phanta",
     "Ran",
     "Rekka",
-    "Retai",
+    "Reitai",
     "Ringo",
     "Ro",
     "Roroko",
