@@ -160,6 +160,7 @@ const wildnameInit = [
     "Maid Fuuko",
     "Nagi",
     "Princess Raterina",
+    "Sachiko",
     "the Jug"
 ]
 
