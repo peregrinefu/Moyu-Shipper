@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Moyu Crackshipper</title>
+
+        <link rel="stylesheet" href="stylesheet.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    </head>
+
+    <body onload="start()">
+        <div class="shell">
+            <div id="output">
+                <noscript>
+                    <dl>
+                        <p>Whoops, nothing got generated</p>
+                    </dl>
+                </noscript>
+            </div>
+            <div id="generate" href="#" title="Regenerate, like Doctor Who" onclick="generate()">That's disgusting. Give me another</div>
+
+            <input id="slider" type="range" min="0" max="100" step="1" value="1" oninput="chanceUpdate(this.value)">
+            <div id="wildcard">Wildcard chance: 1%</div>
+        </div>
+
+        <div class="footer" id="footer">© 2025 Peregrine Fu</div>
+    </body>
+    <script src="js/main.js"></script>
+</html>
