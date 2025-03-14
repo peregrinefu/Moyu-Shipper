@@ -158,6 +158,7 @@ const wildnameInit = [
     "an Eko familiar",
     "Kelbie's dogs",
     "Maid Fuuko",
+    "Mimi",
     "Nagi",
     "Princess Raterina",
     "Sachiko",
