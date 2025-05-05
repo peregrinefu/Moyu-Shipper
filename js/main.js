@@ -86,6 +86,7 @@ const nameInit = [
     "Kasa",
     "Katari",
     "Kayo",
+    "Kazumi",
     "Kei",
     "Keiichi",
     "Keito",
